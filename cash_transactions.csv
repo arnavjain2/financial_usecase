@@ -1,0 +1,21 @@
+from,to,amount,date,time,description
+ClientX,ACC1000,150000,2025-06-01,10:15,Payment for services
+ClientY,ACC1002,200000,2025-06-03,09:45,Software license sale
+ClientZ,ACC1001,175000,2025-06-05,14:30,Subscription renewal
+ClientA,ACC1003,120000,2025-06-10,11:00,Consulting fees
+ClientB,ACC1004,220000,2025-06-12,13:15,Invoice settlement
+ClientC,ACC1000,180000,2025-06-15,16:20,Maintenance contract
+ClientD,ACC1002,160000,2025-06-18,12:10,Training workshop
+ClientE,ACC1001,140000,2025-06-20,10:05,Cloud service usage
+ClientF,ACC1003,190000,2025-06-25,15:00,Annual support
+ClientG,ACC1004,130000,2025-06-28,09:50,One-time fee
+ACC1000,Vendor1,-100000,2025-06-02,10:45,Office Rent
+ACC1002,Vendor2,-210000,2025-06-04,13:30,Hardware Purchase
+ACC1001,Vendor3,-90000,2025-06-06,15:10,Travel Reimbursement
+ACC1003,Vendor4,-250000,2025-06-09,12:00,Payroll
+ACC1004,Vendor5,-130000,2025-06-11,11:25,Software License
+ACC1000,Vendor6,-170000,2025-06-14,14:55,Consultant Fees
+ACC1002,Vendor7,-180000,2025-06-16,10:35,Vendor Retainer
+ACC1001,Vendor8,-150000,2025-06-22,16:40,Insurance Premium
+ACC1003,Vendor9,-160000,2025-06-26,13:00,Office Supplies
+ACC1004,Vendor10,-140000,2025-06-29,09:10,Legal Expenses
