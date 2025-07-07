@@ -6,7 +6,7 @@ import pandas as pd
 import numpy as np
 import json
 from dotenv import load_dotenv
-from langchain_groq import ChatGroq
+from langchain_groq import ChatGroq 
 from statsmodels.tsa.arima.model import ARIMA
 
 # ========== Load GROQ API ==========
