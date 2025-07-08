@@ -1,0 +1,14 @@
+# requirements.txt
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+langgraph
+langchain
+langchain-google-genai
+google-generativeai
+rapidocr-onnxruntime
+opencv-python-headless
+Pillow
+pymongo[srv] 
+requests      
