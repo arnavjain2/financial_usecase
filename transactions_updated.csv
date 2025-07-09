@@ -1,101 +1,101 @@
-date	account_id	transaction_type	amount_in_inr	counterparty	description			
-6/21/2025	ACC001	credit	222723.6	Customer D	Miscellaneous Expense			
-4/18/2025	ACC003	credit	203333.15	Vendor X	Loan Repayment			
-6/15/2025	ACC002	credit	9909.37	Customer D	Miscellaneous Expense			
-6/4/2025	ACC003	credit	168812.27	Bank Alpha	FX Settlement			
-4/29/2025	ACC002	debit	-243019.71	Customer A	Invoice Payment			
-6/29/2025	ACC002	debit	-84083.53	Customer D	Supplier Payment			
-4/14/2025	ACC001	debit	-29918.2	Customer F	Refund			
-4/6/2025	ACC003	debit	-161332.2	Customer G	Loan Repayment			
-6/10/2025	ACC002	debit	-173628.29	Bank Alpha	Loan Repayment			
-4/6/2025	ACC003	credit	232147.43	Customer B	Miscellaneous Expense			
-4/13/2025	ACC002	debit	-136569.68	Customer F	Invoice Payment			
-5/18/2025	ACC002	credit	201382.38	Bank Alpha	Loan Repayment			
-6/17/2025	ACC003	credit	160707.82	Customer D	Invoice Payment			
-5/30/2025	ACC002	debit	-296867.48	Vendor Z	Miscellaneous Expense			
-6/27/2025	ACC002	credit	69485.37	Customer A	Supplier Payment			
-5/22/2025	ACC002	credit	64083.87	Vendor Y	Supplier Payment			
-4/28/2025	ACC003	debit	-119293.94	Vendor Z	Internal Transfer			
-4/19/2025	ACC002	credit	74741.62	Vendor X	Refund			
-6/14/2025	ACC002	debit	-109236.94	Customer C	Internal Transfer			
-4/12/2025	ACC001	credit	46699.55	Customer C	FX Settlement			
-6/16/2025	ACC001	debit	-115104.17	Customer H	Refund			
-6/10/2025	ACC001	credit	204831.4	Vendor X	Refund			
-6/22/2025	ACC002	credit	88756.54	Customer C	Internal Transfer			
-4/1/2025	ACC003	debit	-291594.54	Bank Beta	Invoice Payment			
-6/4/2025	ACC001	debit	-252659.14	Vendor X	Miscellaneous Expense			
-4/20/2025	ACC002	credit	162274.33	Bank Beta	Salary Payment			
-6/16/2025	ACC002	debit	-6823.55	Customer F	Refund			
-5/1/2025	ACC001	credit	263524.87	Customer B	Loan Repayment			
-6/2/2025	ACC001	credit	39389.05	Customer H	Invoice Payment			
-5/4/2025	ACC003	debit	-289344.51	Vendor X	Miscellaneous Expense			
-5/10/2025	ACC002	debit	-131991.93	Vendor X	Internal Transfer			
-4/16/2025	ACC001	credit	20143.74	Customer A	Miscellaneous Expense			
-6/15/2025	ACC001	credit	22226.93	Vendor Z	Salary Payment			
-4/30/2025	ACC001	credit	258030.98	Customer B	Miscellaneous Expense			
-5/6/2025	ACC003	debit	-65056.81	Customer C	Internal Transfer			
-5/2/2025	ACC002	debit	-57932.56	Customer B	FX Settlement			
-5/16/2025	ACC002	debit	-140640.38	Bank Alpha	Salary Payment			
-6/26/2025	ACC003	credit	19123.19	Bank Alpha	Supplier Payment			
-4/14/2025	ACC001	credit	57872.46	Customer H	Invoice Payment			
-5/25/2025	ACC001	debit	-139325.79	Customer B	Internal Transfer			
-6/10/2025	ACC001	credit	195991.32	Vendor X	Salary Payment			
-4/12/2025	ACC001	credit	122517.8	Customer H	Miscellaneous Expense			
-5/22/2025	ACC001	credit	114312.96	Customer G	Refund			
-5/29/2025	ACC002	debit	-209280.86	Bank Alpha	Internal Transfer			
-4/20/2025	ACC001	debit	-66092.57	Customer A	Salary Payment			
-5/11/2025	ACC001	credit	175669.1	Vendor X	Invoice Payment			
-4/8/2025	ACC003	credit	255551.42	Customer B	Loan Repayment			
-6/26/2025	ACC001	debit	-36846.1	Vendor Y	Miscellaneous Expense			
-6/14/2025	ACC003	credit	186195.07	Customer G	Supplier Payment			
-5/4/2025	ACC001	debit	-72367.1	Customer G	Invoice Payment			
-6/25/2025	ACC003	debit	-137710.15	Bank Beta	Loan Repayment			
-4/2/2025	ACC002	credit	22904.96	Customer D	Refund			
-4/17/2025	ACC002	credit	263901.8	Customer F	Refund			
-4/21/2025	ACC002	debit	-183891.65	Bank Beta	Salary Payment			
-6/25/2025	ACC003	debit	-279595.06	Customer B	Invoice Payment			
-5/4/2025	ACC001	credit	222982.59	Customer C	Refund			
-5/7/2025	ACC003	credit	215566.04	Customer D	Refund			
-6/4/2025	ACC002	debit	-271695.61	Customer A	Loan Repayment			
-6/21/2025	ACC002	debit	-14181.94	Customer F	Invoice Payment			
-6/21/2025	ACC002	credit	222628.04	Vendor X	FX Settlement			
-6/11/2025	ACC001	credit	23497.91	Bank Alpha	Invoice Payment			
-6/9/2025	ACC001	debit	-175170.36	Customer C	FX Settlement			
-4/17/2025	ACC001	debit	-110030.8	Bank Beta	Salary Payment			
-5/16/2025	ACC001	credit	200413.09	Customer F	FX Settlement			
-6/19/2025	ACC003	credit	277803.38	Customer D	Invoice Payment			
-4/23/2025	ACC002	credit	54628.84	Customer F	FX Settlement			
-6/25/2025	ACC003	credit	80774.91	Bank Beta	Loan Repayment			
-5/19/2025	ACC001	debit	-67507.68	Customer H	Supplier Payment			
-5/10/2025	ACC001	credit	8075.67	Customer D	FX Settlement			
-5/13/2025	ACC002	credit	290099.84	Customer E	Supplier Payment			
-6/22/2025	ACC003	debit	-204175.92	Vendor X	Supplier Payment			
-4/4/2025	ACC001	debit	-54391.78	Customer E	Salary Payment			
-4/14/2025	ACC003	debit	-104360.45	Bank Beta	Supplier Payment			
-5/26/2025	ACC003	credit	116173.43	Vendor Y	Miscellaneous Expense			
-5/3/2025	ACC001	debit	-1505.69	Bank Beta	Miscellaneous Expense			
-5/17/2025	ACC002	credit	284713.47	Customer F	Supplier Payment			
-6/24/2025	ACC001	debit	-152629.63	Vendor Z	FX Settlement			
-5/12/2025	ACC002	debit	-166769.33	Customer D	FX Settlement			
-6/25/2025	ACC002	credit	185038.96	Customer E	FX Settlement			
-6/10/2025	ACC001	debit	-86787.2	Customer G	Supplier Payment			
-5/30/2025	ACC002	debit	-203012.54	Vendor X	Internal Transfer			
-4/22/2025	ACC003	credit	85852.14	Vendor Z	Supplier Payment			
-4/12/2025	ACC001	debit	-68167.56	Customer D	Invoice Payment			
-4/4/2025	ACC001	credit	295196.87	Vendor Y	Loan Repayment			
-5/29/2025	ACC002	credit	215785.43	Customer G	Internal Transfer			
-5/22/2025	ACC001	credit	197161.35	Customer A	Loan Repayment			
-5/25/2025	ACC001	credit	241428.85	Bank Alpha	Internal Transfer			
-4/7/2025	ACC003	credit	275323.53	Customer B	Internal Transfer			
-4/18/2025	ACC002	debit	-285061.84	Customer H	FX Settlement			
-6/10/2025	ACC002	credit	223352.98	Customer H	Internal Transfer			
-5/4/2025	ACC001	debit	-229978.29	Vendor X	Internal Transfer			
-6/20/2025	ACC001	debit	-132521.91	Bank Alpha	Refund			
-5/1/2025	ACC002	debit	-96593.16	Vendor X	Loan Repayment			
-4/18/2025	ACC001	credit	115527.55	Customer C	Miscellaneous Expense			
-4/9/2025	ACC002	debit	-99933.54	Customer H	FX Settlement			
-4/8/2025	ACC001	debit	-117453.57	Bank Beta	Salary Payment			
-6/13/2025	ACC002	debit	-2762.93	Customer F	Refund			
-5/20/2025	ACC002	credit	146980.61	Customer E	FX Settlement			
-6/2/2025	ACC001	debit	-101502.73	Vendor Z	FX Settlement			
-4/22/2025	ACC002	credit	294235.87	Vendor X	Salary Payment			
+date	account_id	transaction_type	amount_in_inr	counterparty	description
+6/21/2025	ACC001	credit	222723.6	Customer D	Miscellaneous Expense
+4/18/2025	ACC003	credit	203333.15	Vendor X	Loan Repayment
+6/15/2025	ACC002	credit	9909.37	Customer D	Miscellaneous Expense
+6/4/2025	ACC003	credit	168812.27	Bank Alpha	FX Settlement
+4/29/2025	ACC002	debit	-243019.71	Customer A	Invoice Payment
+6/29/2025	ACC002	debit	-84083.53	Customer D	Supplier Payment
+4/14/2025	ACC001	debit	-29918.2	Customer F	Refund
+4/6/2025	ACC003	debit	-161332.2	Customer G	Loan Repayment
+6/10/2025	ACC002	debit	-173628.29	Bank Alpha	Loan Repayment
+4/6/2025	ACC003	credit	232147.43	Customer B	Miscellaneous Expense
+4/13/2025	ACC002	debit	-136569.68	Customer F	Invoice Payment
+5/18/2025	ACC002	credit	201382.38	Bank Alpha	Loan Repayment
+6/17/2025	ACC003	credit	160707.82	Customer D	Invoice Payment
+5/30/2025	ACC002	debit	-296867.48	Vendor Z	Miscellaneous Expense
+6/27/2025	ACC002	credit	69485.37	Customer A	Supplier Payment
+5/22/2025	ACC002	credit	64083.87	Vendor Y	Supplier Payment
+4/28/2025	ACC003	debit	-119293.94	Vendor Z	Internal Transfer
+4/19/2025	ACC002	credit	74741.62	Vendor X	Refund
+6/14/2025	ACC002	debit	-109236.94	Customer C	Internal Transfer
+4/12/2025	ACC001	credit	46699.55	Customer C	FX Settlement
+6/16/2025	ACC001	debit	-115104.17	Customer H	Refund
+6/10/2025	ACC001	credit	204831.4	Vendor X	Refund
+6/22/2025	ACC002	credit	88756.54	Customer C	Internal Transfer
+4/1/2025	ACC003	debit	-291594.54	Bank Beta	Invoice Payment
+6/4/2025	ACC001	debit	-252659.14	Vendor X	Miscellaneous Expense
+4/20/2025	ACC002	credit	162274.33	Bank Beta	Salary Payment
+6/16/2025	ACC002	debit	-6823.55	Customer F	Refund
+5/1/2025	ACC001	credit	263524.87	Customer B	Loan Repayment
+6/2/2025	ACC001	credit	39389.05	Customer H	Invoice Payment
+5/4/2025	ACC003	debit	-289344.51	Vendor X	Miscellaneous Expense
+5/10/2025	ACC002	debit	-131991.93	Vendor X	Internal Transfer
+4/16/2025	ACC001	credit	20143.74	Customer A	Miscellaneous Expense
+6/15/2025	ACC001	credit	22226.93	Vendor Z	Salary Payment
+4/30/2025	ACC001	credit	258030.98	Customer B	Miscellaneous Expense
+5/6/2025	ACC003	debit	-65056.81	Customer C	Internal Transfer
+5/2/2025	ACC002	debit	-57932.56	Customer B	FX Settlement
+5/16/2025	ACC002	debit	-140640.38	Bank Alpha	Salary Payment
+6/26/2025	ACC003	credit	19123.19	Bank Alpha	Supplier Payment
+4/14/2025	ACC001	credit	57872.46	Customer H	Invoice Payment
+5/25/2025	ACC001	debit	-139325.79	Customer B	Internal Transfer
+6/10/2025	ACC001	credit	195991.32	Vendor X	Salary Payment
+4/12/2025	ACC001	credit	122517.8	Customer H	Miscellaneous Expense
+5/22/2025	ACC001	credit	114312.96	Customer G	Refund
+5/29/2025	ACC002	debit	-209280.86	Bank Alpha	Internal Transfer
+4/20/2025	ACC001	debit	-66092.57	Customer A	Salary Payment
+5/11/2025	ACC001	credit	175669.1	Vendor X	Invoice Payment
+4/8/2025	ACC003	credit	255551.42	Customer B	Loan Repayment
+6/26/2025	ACC001	debit	-36846.1	Vendor Y	Miscellaneous Expense
+6/14/2025	ACC003	credit	186195.07	Customer G	Supplier Payment
+5/4/2025	ACC001	debit	-72367.1	Customer G	Invoice Payment
+6/25/2025	ACC003	debit	-137710.15	Bank Beta	Loan Repayment
+4/2/2025	ACC002	credit	22904.96	Customer D	Refund
+4/17/2025	ACC002	credit	263901.8	Customer F	Refund
+4/21/2025	ACC002	debit	-183891.65	Bank Beta	Salary Payment
+6/25/2025	ACC003	debit	-279595.06	Customer B	Invoice Payment
+5/4/2025	ACC001	credit	222982.59	Customer C	Refund
+5/7/2025	ACC003	credit	215566.04	Customer D	Refund
+6/4/2025	ACC002	debit	-271695.61	Customer A	Loan Repayment
+6/21/2025	ACC002	debit	-14181.94	Customer F	Invoice Payment
+6/21/2025	ACC002	credit	222628.04	Vendor X	FX Settlement
+6/11/2025	ACC001	credit	23497.91	Bank Alpha	Invoice Payment
+6/9/2025	ACC001	debit	-175170.36	Customer C	FX Settlement
+4/17/2025	ACC001	debit	-110030.8	Bank Beta	Salary Payment
+5/16/2025	ACC001	credit	200413.09	Customer F	FX Settlement
+6/19/2025	ACC003	credit	277803.38	Customer D	Invoice Payment
+4/23/2025	ACC002	credit	54628.84	Customer F	FX Settlement
+6/25/2025	ACC003	credit	80774.91	Bank Beta	Loan Repayment
+5/19/2025	ACC001	debit	-67507.68	Customer H	Supplier Payment
+5/10/2025	ACC001	credit	8075.67	Customer D	FX Settlement
+5/13/2025	ACC002	credit	290099.84	Customer E	Supplier Payment
+6/22/2025	ACC003	debit	-204175.92	Vendor X	Supplier Payment
+4/4/2025	ACC001	debit	-54391.78	Customer E	Salary Payment
+4/14/2025	ACC003	debit	-104360.45	Bank Beta	Supplier Payment
+5/26/2025	ACC003	credit	116173.43	Vendor Y	Miscellaneous Expense
+5/3/2025	ACC001	debit	-1505.69	Bank Beta	Miscellaneous Expense
+5/17/2025	ACC002	credit	284713.47	Customer F	Supplier Payment
+6/24/2025	ACC001	debit	-152629.63	Vendor Z	FX Settlement
+5/12/2025	ACC002	debit	-166769.33	Customer D	FX Settlement
+6/25/2025	ACC002	credit	185038.96	Customer E	FX Settlement
+6/10/2025	ACC001	debit	-86787.2	Customer G	Supplier Payment
+5/30/2025	ACC002	debit	-203012.54	Vendor X	Internal Transfer
+4/22/2025	ACC003	credit	85852.14	Vendor Z	Supplier Payment
+4/12/2025	ACC001	debit	-68167.56	Customer D	Invoice Payment
+4/4/2025	ACC001	credit	295196.87	Vendor Y	Loan Repayment
+5/29/2025	ACC002	credit	215785.43	Customer G	Internal Transfer
+5/22/2025	ACC001	credit	197161.35	Customer A	Loan Repayment
+5/25/2025	ACC001	credit	241428.85	Bank Alpha	Internal Transfer
+4/7/2025	ACC003	credit	275323.53	Customer B	Internal Transfer
+4/18/2025	ACC002	debit	-285061.84	Customer H	FX Settlement
+6/10/2025	ACC002	credit	223352.98	Customer H	Internal Transfer
+5/4/2025	ACC001	debit	-229978.29	Vendor X	Internal Transfer
+6/20/2025	ACC001	debit	-132521.91	Bank Alpha	Refund
+5/1/2025	ACC002	debit	-96593.16	Vendor X	Loan Repayment
+4/18/2025	ACC001	credit	115527.55	Customer C	Miscellaneous Expense
+4/9/2025	ACC002	debit	-99933.54	Customer H	FX Settlement
+4/8/2025	ACC001	debit	-117453.57	Bank Beta	Salary Payment
+6/13/2025	ACC002	debit	-2762.93	Customer F	Refund
+5/20/2025	ACC002	credit	146980.61	Customer E	FX Settlement
+6/2/2025	ACC001	debit	-101502.73	Vendor Z	FX Settlement
+4/22/2025	ACC002	credit	294235.87	Vendor X	Salary Payment
