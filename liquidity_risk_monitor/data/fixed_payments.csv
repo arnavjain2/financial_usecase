@@ -1,0 +1,61 @@
+payment_id,date,payment_type,amount,currency,payee,payment_frequency,payment_method,source_account
+1,2025-01-02,payroll,50000,INR,Employee_Salaries,Monthly,Bank Transfer,ACC001
+2,2025-01-03,microsoft_license,100000,INR,Microsoft,Annual,Bank Transfer,ACC002
+3,2025-01-04,azure_license,8000,INR,Microsoft,Monthly,Credit Card,ACC003
+4,2025-01-05,loan_emi,15000,INR,ABC_Bank,Monthly,Wallet,ACC001
+5,2025-01-03,transport_allowance,3000,INR,Transport_Company,Monthly,Bank Transfer,ACC002
+6,2025-02-02,payroll,50000,INR,Employee_Salaries,Monthly,Bank Transfer,ACC003
+7,2025-02-03,microsoft_license,100000,INR,Microsoft,Annual,Bank Transfer,ACC001
+8,2025-02-04,azure_license,8000,INR,Microsoft,Monthly,Credit Card,ACC002
+9,2025-02-05,loan_emi,15000,INR,ABC_Bank,Monthly,Wallet,ACC003
+10,2025-02-03,transport_allowance,3000,INR,Transport_Company,Monthly,Bank Transfer,ACC001
+11,2025-03-02,payroll,50000,INR,Employee_Salaries,Monthly,Bank Transfer,ACC002
+12,2025-03-03,microsoft_license,100000,INR,Microsoft,Annual,Bank Transfer,ACC003
+13,2025-03-04,azure_license,8000,INR,Microsoft,Monthly,Credit Card,ACC001
+14,2025-03-05,loan_emi,15000,INR,ABC_Bank,Monthly,Wallet,ACC002
+15,2025-03-03,transport_allowance,3000,INR,Transport_Company,Monthly,Bank Transfer,ACC003
+16,2025-04-02,payroll,50000,INR,Employee_Salaries,Monthly,Bank Transfer,ACC001
+17,2025-04-03,microsoft_license,100000,INR,Microsoft,Annual,Bank Transfer,ACC002
+18,2025-04-04,azure_license,8000,INR,Microsoft,Monthly,Credit Card,ACC003
+19,2025-04-05,loan_emi,15000,INR,ABC_Bank,Monthly,Wallet,ACC001
+20,2025-04-03,transport_allowance,3000,INR,Transport_Company,Monthly,Bank Transfer,ACC002
+21,2025-05-02,payroll,50000,INR,Employee_Salaries,Monthly,Bank Transfer,ACC003
+22,2025-05-03,microsoft_license,100000,INR,Microsoft,Annual,Bank Transfer,ACC001
+23,2025-05-04,azure_license,8000,INR,Microsoft,Monthly,Credit Card,ACC002
+24,2025-05-05,loan_emi,15000,INR,ABC_Bank,Monthly,Wallet,ACC003
+25,2025-05-03,transport_allowance,3000,INR,Transport_Company,Monthly,Bank Transfer,ACC001
+26,2025-06-02,payroll,50000,INR,Employee_Salaries,Monthly,Bank Transfer,ACC002
+27,2025-06-03,microsoft_license,100000,INR,Microsoft,Annual,Bank Transfer,ACC003
+28,2025-06-04,azure_license,8000,INR,Microsoft,Monthly,Credit Card,ACC001
+29,2025-06-05,loan_emi,15000,INR,ABC_Bank,Monthly,Wallet,ACC002
+30,2025-06-03,transport_allowance,3000,INR,Transport_Company,Monthly,Bank Transfer,ACC003
+31,2025-07-02,payroll,50000,INR,Employee_Salaries,Monthly,Bank Transfer,ACC001
+32,2025-07-03,microsoft_license,100000,INR,Microsoft,Annual,Bank Transfer,ACC002
+33,2025-07-04,azure_license,8000,INR,Microsoft,Monthly,Credit Card,ACC003
+34,2025-07-05,loan_emi,15000,INR,ABC_Bank,Monthly,Wallet,ACC001
+35,2025-07-03,transport_allowance,3000,INR,Transport_Company,Monthly,Bank Transfer,ACC002
+36,2025-08-02,payroll,50000,INR,Employee_Salaries,Monthly,Bank Transfer,ACC003
+37,2025-08-03,microsoft_license,100000,INR,Microsoft,Annual,Bank Transfer,ACC001
+38,2025-08-04,azure_license,8000,INR,Microsoft,Monthly,Credit Card,ACC002
+39,2025-08-05,loan_emi,15000,INR,ABC_Bank,Monthly,Wallet,ACC003
+40,2025-08-03,transport_allowance,3000,INR,Transport_Company,Monthly,Bank Transfer,ACC001
+41,2025-09-02,payroll,50000,INR,Employee_Salaries,Monthly,Bank Transfer,ACC002
+42,2025-09-03,microsoft_license,100000,INR,Microsoft,Annual,Bank Transfer,ACC003
+43,2025-09-04,azure_license,8000,INR,Microsoft,Monthly,Credit Card,ACC001
+44,2025-09-05,loan_emi,15000,INR,ABC_Bank,Monthly,Wallet,ACC002
+45,2025-09-03,transport_allowance,3000,INR,Transport_Company,Monthly,Bank Transfer,ACC003
+46,2025-10-02,payroll,50000,INR,Employee_Salaries,Monthly,Bank Transfer,ACC001
+47,2025-10-03,microsoft_license,100000,INR,Microsoft,Annual,Bank Transfer,ACC002
+48,2025-10-04,azure_license,8000,INR,Microsoft,Monthly,Credit Card,ACC003
+49,2025-10-05,loan_emi,15000,INR,ABC_Bank,Monthly,Wallet,ACC001
+50,2025-10-03,transport_allowance,3000,INR,Transport_Company,Monthly,Bank Transfer,ACC002
+51,2025-11-02,payroll,50000,INR,Employee_Salaries,Monthly,Bank Transfer,ACC003
+52,2025-11-03,microsoft_license,100000,INR,Microsoft,Annual,Bank Transfer,ACC001
+53,2025-11-04,azure_license,8000,INR,Microsoft,Monthly,Credit Card,ACC002
+54,2025-11-05,loan_emi,15000,INR,ABC_Bank,Monthly,Wallet,ACC003
+55,2025-11-03,transport_allowance,3000,INR,Transport_Company,Monthly,Bank Transfer,ACC001
+56,2025-12-02,payroll,50000,INR,Employee_Salaries,Monthly,Bank Transfer,ACC002
+57,2025-12-03,microsoft_license,100000,INR,Microsoft,Annual,Bank Transfer,ACC003
+58,2025-12-04,azure_license,8000,INR,Microsoft,Monthly,Credit Card,ACC001
+59,2025-12-05,loan_emi,15000,INR,ABC_Bank,Monthly,Wallet,ACC002
+60,2025-12-03,transport_allowance,3000,INR,Transport_Company,Monthly,Bank Transfer,ACC003

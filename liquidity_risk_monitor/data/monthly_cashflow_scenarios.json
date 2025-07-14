@@ -1,0 +1,98 @@
+[
+  {
+    "month": "2025-01",
+    "inflow": 1200000,
+    "outflow": 1150000,
+    "balance": 50000,
+    "risk_event": "None",
+    "risk_reason": ""
+  },
+  {
+    "month": "2025-02",
+    "inflow": 1000000,
+    "outflow": 1100000,
+    "balance": -100000,
+    "risk_event": "Detected",
+    "risk_reason": "Unexpected large supplier payment"
+  },
+  {
+    "month": "2025-03",
+    "inflow": 1250000,
+    "outflow": 1220000,
+    "balance": 30000,
+    "risk_event": "None",
+    "risk_reason": ""
+  },
+  {
+    "month": "2025-04",
+    "inflow": 950000,
+    "outflow": 1050000,
+    "balance": -100000,
+    "risk_event": "Detected",
+    "risk_reason": "FX loss due to INR depreciation"
+  },
+  {
+    "month": "2025-05",
+    "inflow": 1300000,
+    "outflow": 1295000,
+    "balance": 5000,
+    "risk_event": "None",
+    "risk_reason": ""
+  },
+  {
+    "month": "2025-06",
+    "inflow": 1150000,
+    "outflow": 1350000,
+    "balance": -200000,
+    "risk_event": "Detected",
+    "risk_reason": "Unexpected tax settlement"
+  },
+  {
+    "month": "2025-07",
+    "inflow": 1400000,
+    "outflow": 1380000,
+    "balance": 20000,
+    "risk_event": "None",
+    "risk_reason": ""
+  },
+  {
+    "month": "2025-08",
+    "inflow": 1100000,
+    "outflow": 1250000,
+    "balance": -150000,
+    "risk_event": "Detected",
+    "risk_reason": "Delayed customer payment"
+  },
+  {
+    "month": "2025-09",
+    "inflow": 1350000,
+    "outflow": 1320000,
+    "balance": 30000,
+    "risk_event": "None",
+    "risk_reason": ""
+  },
+  {
+    "month": "2025-10",
+    "inflow": 1200000,
+    "outflow": 1400000,
+    "balance": -200000,
+    "risk_event": "Detected",
+    "risk_reason": "Large capex payment"
+  },
+  {
+    "month": "2025-11",
+    "inflow": 1250000,
+    "outflow": 1230000,
+    "balance": 20000,
+    "risk_event": "None",
+    "risk_reason": ""
+  },
+  {
+    "month": "2025-12",
+    "inflow": 1000000,
+    "outflow": 1300000,
+    "balance": -300000,
+    "risk_event": "Detected",
+    "risk_reason": "Bonus payout + unplanned legal expense"
+  }
+]
