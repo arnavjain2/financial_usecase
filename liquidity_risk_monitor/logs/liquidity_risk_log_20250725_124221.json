@@ -1,0 +1,34 @@
+{
+  "timestamp": "20250725_124221",
+  "features": {
+    "total_inflows": 15996269.199999997,
+    "total_outflows": 15736721.75,
+    "net_cashflow": 259547.4499999974,
+    "expected_outflow": 2112000,
+    "cash_balance": 1002145
+  },
+  "risk_predicted": "high",
+  "reasons": [
+    "Past: Stress event or month had negative balance/high risk (e.g., tax season, supplier payouts).",
+    "Past: Stress event or month had negative balance/high risk (e.g., tax season, supplier payouts).",
+    "Past: Stress event or month had negative balance/high risk (e.g., tax season, supplier payouts).",
+    "Upcoming payments may outstrip cash buffer if revenue slows unpredictably.",
+    "Unexpected large payment or FX loss event or sudden client delay could trigger liquidity crisis if not planned."
+  ],
+  "scenarios_analyzed": [
+    "Past: Stress event or month had negative balance/high risk (e.g., tax season, supplier payouts).",
+    "Past: Stress event or month had negative balance/high risk (e.g., tax season, supplier payouts).",
+    "Past: Stress event or month had negative balance/high risk (e.g., tax season, supplier payouts).",
+    "Upcoming payments may outstrip cash buffer if revenue slows unpredictably.",
+    "Unexpected large payment or FX loss event or sudden client delay could trigger liquidity crisis if not planned."
+  ],
+  "solutions": [
+    "Arrange or increase emergency credit lines or working capital facilities.",
+    "Negotiate deferrals or restructure payment schedules with suppliers.",
+    "Accelerate receivables collections, consider early payment incentives.",
+    "Maintain strict minimum cash buffer thresholds consistent with stress scenarios.",
+    "Implement daily rolling cash forecasts for proactive management."
+  ],
+  "result": "# Liquidity Risk Detailed Report \u2014 HIGH\n\n## Financial Overview\n- Cash Balance: \u20b91002145.00\n- Net Cashflow (Last 12 months): \u20b9259547.45\n- Expected Upcoming Outflows: \u20b92112000.00\n\n## Risk Scenarios and Causes\n- Past: Stress event or month had negative balance/high risk (e.g., tax season, supplier payouts).\n- Past: Stress event or month had negative balance/high risk (e.g., tax season, supplier payouts).\n- Past: Stress event or month had negative balance/high risk (e.g., tax season, supplier payouts).\n- Upcoming payments may outstrip cash buffer if revenue slows unpredictably.\n- Unexpected large payment or FX loss event or sudden client delay could trigger liquidity crisis if not planned.\n\n## Suggested Risk Reduction Measures\n- Arrange or increase emergency credit lines or working capital facilities.\n- Negotiate deferrals or restructure payment schedules with suppliers.\n- Accelerate receivables collections, consider early payment incentives.\n- Maintain strict minimum cash buffer thresholds consistent with stress scenarios.\n- Implement daily rolling cash forecasts for proactive management.",
+  "risk_detected": "high"
+}

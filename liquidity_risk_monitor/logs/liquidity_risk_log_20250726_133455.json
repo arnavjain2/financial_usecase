@@ -1,0 +1,20 @@
+{
+  "timestamp": "20250726_133455",
+  "features": {
+    "total_inflows": 15996269.199999997,
+    "total_outflows": 15736721.75,
+    "net_cashflow": 259547.4499999974,
+    "expected_outflow": 2112000,
+    "cash_balance": 1002145
+  },
+  "risk_predicted": "medium",
+  "reasons": [
+    ""
+  ],
+  "scenarios_analyzed": [
+    "AI Generated Scenario: "
+  ],
+  "gemini_analysis": {},
+  "result": "",
+  "risk_detected": "medium"
+}
